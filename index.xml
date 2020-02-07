@@ -20,14 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title></title>
-      <link>http://localhost:1313/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/my-first-post/</guid>
-      <description>1 2 3 4 5 6 7 8 9 10 11 12 13  --- title: &amp;#34;My First Post&amp;#34; date: 2017-12-14T11:18:15+08:00 weight: 70 markup: mmark draft: false keywords: [&amp;#34;hugo&amp;#34;] description: &amp;#34;第一篇文章&amp;#34; tags: [&amp;#34;hugo&amp;#34;, &amp;#34;pages&amp;#34;] categories: [&amp;#34;pages&amp;#34;] author: &amp;#34;&amp;#34; --- 这里是文章内容   </description>
-    </item>
-    
   </channel>
 </rss>
